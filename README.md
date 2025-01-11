@@ -1,10 +1,9 @@
 # Transaction Dashboard
 MERN Stack Challenge by Roxiler
 
-<br/>
+
 Frontend Technologies
 - React
- <br/>
 - Chart.js
 - Moment
 - Axios
