@@ -4,7 +4,7 @@ MERN Stack Challenge by Roxiler
 <br/>
 Frontend Technologies
 - React
-- Ant Design Components
+ <br/>
 - Chart.js
 - Moment
 - Axios
